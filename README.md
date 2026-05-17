@@ -21,7 +21,7 @@ pip install requests
 1. Get a free API key from openweathermap.org
 2. Create a file called openweather_api.txt in the project folder
 3. Paste your API key inside the file
-4. Run the app: python weather.py
+4. Run the app: weather-app-API.py
 
 ## What I Learned
 - How to make API calls using the requests library
