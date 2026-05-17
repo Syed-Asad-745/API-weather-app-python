@@ -30,7 +30,7 @@ pip install requests
 - Handling errors gracefully in both the API layer and the UI
 
 
-##Description
+## Description
 Built as part of my Python portfolio, this weather app taught me how to 
 work with REST APIs, parse JSON responses, and build a functional GUI 
 with tkinter. Users can search any city and instantly see temperature, 
