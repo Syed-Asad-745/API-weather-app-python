@@ -1,4 +1,4 @@
-## Weather App
+# Weather App
 
 A desktop weather application built with Python and tkinter that fetches 
 live weather data using the OpenWeatherMap API.
