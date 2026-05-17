@@ -50,12 +50,13 @@ def create_widgets(window):
                              text="Fetch Weather",
                              font=("Consolas",20),
                              bg="#ffc800",
+                             activebackground="#ffc800",
                              pady=20,
                              command=lambda :fetch_weather_data())
     fetch_button.pack()
 
     display_label = tk.Label(window,
-                             text="Please enter a city name.",
+                             text="Enter a city name.",
                              font=("Consolas",20),
                              justify="left",
                              bg="#73ffef",
